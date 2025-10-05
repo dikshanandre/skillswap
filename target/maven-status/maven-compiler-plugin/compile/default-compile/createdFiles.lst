@@ -1,0 +1,7 @@
+skillswap\skillswap\repository\UserRepository.class
+skillswap\skillswap\service\UserService.class
+skillswap\skillswap\controller\UserController.class
+skillswap\skillswap\dto\UserDTO.class
+skillswap\skillswap\com\config\SecurityConfig.class
+skillswap\skillswap\model\User.class
+skillswap\skillswap\SkillswapApplication.class
